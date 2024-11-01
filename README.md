@@ -1,3 +1,5 @@
+# [hitboxtracker](https://github.com/rehlds/hitboxtracker) [![Percentage of issues still open](http://isitmaintained.com/badge/open/rehlds/hitboxtracker.svg)](http://isitmaintained.com/project/rehlds/hitboxtracker "Percentage of issues still open") [![GitHub license](https://img.shields.io/github/license/rehlds/hitboxtracker.svg?longCache=true&style=flat-square)](https://github.com/rehlds/hitboxtracker/blob/master/LICENSE.md) [![Deprecated](https://img.shields.io/badge/status-Deprecated-red.svg?style=flat-square)](https://github.com/rehlds/hitboxtracker/) [![GitHub issues](https://img.shields.io/github/issues/rehlds/hitboxtracker.svg?longCache=true&style=flat-square)](https://github.com/rehlds/hitboxtracker/issues) [![GitHub forks](https://img.shields.io/github/forks/rehlds/hitboxtracker.svg?longCache=true&style=flat-square)](https://github.com/rehlds/hitboxtracker/network) [![GitHub stars](https://img.shields.io/github/stars/rehlds/hitboxtracker.svg?longCache=true&style=flat-square)](https://github.com/rehlds/hitboxtracker/stargazers)
+
 # Description
 Dev-tool that demonstrates on client-side true position of the hitboxes calculated by server
 
